@@ -11,6 +11,11 @@ namespace ClassLibrary2
         public int main()
         {
             Console.WriteLine("Blastoise, I choose you!!");
+            int a;
+            int b;
+            a = b = 9;
+            float c = 90;
+            Console.WriteLine(c/(a*b));
             return 0;
         }
     }
