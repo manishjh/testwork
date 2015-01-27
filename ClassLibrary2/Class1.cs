@@ -8,5 +8,10 @@ namespace ClassLibrary2
 {
     public class Class1
     {
+        public int main()
+        {
+            Console.WriteLine("Blastoise, I choose you!!");
+            return 0;
+        }
     }
 }
