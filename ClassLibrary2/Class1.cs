@@ -8,7 +8,7 @@ namespace ClassLibrary2
 {
     public class Class1
     {
-        public int main()
+        public static int Main()
         {
             Console.WriteLine("Blastoise, I choose you!!");
             int a;
