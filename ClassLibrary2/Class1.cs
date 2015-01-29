@@ -17,6 +17,7 @@ namespace ClassLibrary2
             float c = 90;
             Console.WriteLine(c/(a*b));
             Console.WriteLine("Huha");
+            Console.ReadKey();
             return 0;
         }
     }
